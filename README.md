@@ -1,4 +1,4 @@
-# 问某人的相关资料汇总啦啦啦
+# 问竟元的面试资料汇总 一路绿灯
 ---
 [编辑](https://github.com/wenjy337/interview/edit/main/README.md)
 
@@ -15,7 +15,7 @@
 
 
 
-宝看，这个是链接的语法
+示例如下
 
 > [想要显示的文字](链接)
 >  [baidu](https://www.baidu.com/)
