@@ -32,5 +32,20 @@
 - [比特——测试方向常见面试题及如何解答:](https://bitejiuyeke.feishu.cn/docx/doxcnoKojBKkw1LCRoPJ7JwtNre)
 - 
 
+<script src="https://giscus.app/client.js"
+        data-repo="wenjy337/wenjy337.github.io"
+        data-repo-id="R_kgDOJiepaA"
+        data-category="General"
+        data-category-id="DIC_kwDOJiepaM4CWjHl"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
